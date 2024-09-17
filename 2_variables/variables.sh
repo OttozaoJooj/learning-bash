@@ -25,6 +25,7 @@ resultado=$(echo "scale=5; 10/3" | bc)
 
 echo "$resultado é um número ponto flutuante"
 
+#Variáveis de Ambiente
 
 
 
